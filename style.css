@@ -1,0 +1,72 @@
+.button {
+font: bold 11px Arial;
+text-decoration: none;
+background-color: #EEEEEE;
+color: #333333;
+padding: 5px 15px 5px 15px;
+border-top: 1px solid #CCCCCC;
+border-right: 1px solid #333333;
+border-bottom: 1px solid #333333;
+border-left: 1px solid #CCCCCC;
+gap: 2rem;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    font-family: Avenir, Helvetica, sans-serif;
+    font-weight: 500;
+    color:#333333
+    }
+
+
+
+body {
+ background-color: bisque;
+ margin-left: 60px;
+ margin-right: 60px;
+}
+
+div {
+
+    padding: 4px 12px 4px 12px;
+    align-self: center;
+
+}
+
+.img {
+    width: 300px;
+}
+
+.grid {
+    display: grid;
+}
+
+p {
+font-family: Avenir;
+color: #333333;
+display: block;
+    margin-block-start: 1__qem;
+    margin-block-end: 1__qem;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    
+}
+
+li {
+font-family: Avenir;
+color: #333333;
+display: block;
+    margin-block-start: 1__qem;
+    margin-block-end: 1__qem;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+.header {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
